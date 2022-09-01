@@ -1,0 +1,16 @@
+{
+  "name": "TypeBlockChain",
+  "version": "1.0.0",
+  "description": "TypeScript Study",
+  "main": "index.js",
+  "repository": "https://github.com/wnsrb003/TypeBlockChain.git",
+  "author": "박준규 <wnsrb003@naver.com>",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^4.8.2"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "prestart": "tsc"
+  }
+}
